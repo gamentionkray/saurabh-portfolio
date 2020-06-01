@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/saurabh-tanpure/static/css/main.9b064583.chunk.css",
-    "main.js": "/saurabh-tanpure/static/js/main.49c1a574.chunk.js",
-    "main.js.map": "/saurabh-tanpure/static/js/main.49c1a574.chunk.js.map",
-    "runtime-main.js": "/saurabh-tanpure/static/js/runtime-main.fa13a0f2.js",
-    "runtime-main.js.map": "/saurabh-tanpure/static/js/runtime-main.fa13a0f2.js.map",
-    "static/js/2.db622a8b.chunk.js": "/saurabh-tanpure/static/js/2.db622a8b.chunk.js",
-    "static/js/2.db622a8b.chunk.js.map": "/saurabh-tanpure/static/js/2.db622a8b.chunk.js.map",
-    "index.html": "/saurabh-tanpure/index.html",
-    "precache-manifest.0642db153eae98d37e28c129cfc39435.js": "/saurabh-tanpure/precache-manifest.0642db153eae98d37e28c129cfc39435.js",
-    "service-worker.js": "/saurabh-tanpure/service-worker.js",
-    "static/css/main.9b064583.chunk.css.map": "/saurabh-tanpure/static/css/main.9b064583.chunk.css.map",
-    "static/js/2.db622a8b.chunk.js.LICENSE.txt": "/saurabh-tanpure/static/js/2.db622a8b.chunk.js.LICENSE.txt",
-    "static/media/saurabh.jpeg": "/saurabh-tanpure/static/media/saurabh.85560531.jpeg"
+    "main.css": "/saurabh-portfolio/static/css/main.9b064583.chunk.css",
+    "main.js": "/saurabh-portfolio/static/js/main.56259431.chunk.js",
+    "main.js.map": "/saurabh-portfolio/static/js/main.56259431.chunk.js.map",
+    "runtime-main.js": "/saurabh-portfolio/static/js/runtime-main.8b919f1b.js",
+    "runtime-main.js.map": "/saurabh-portfolio/static/js/runtime-main.8b919f1b.js.map",
+    "static/js/2.db622a8b.chunk.js": "/saurabh-portfolio/static/js/2.db622a8b.chunk.js",
+    "static/js/2.db622a8b.chunk.js.map": "/saurabh-portfolio/static/js/2.db622a8b.chunk.js.map",
+    "index.html": "/saurabh-portfolio/index.html",
+    "precache-manifest.894b5edb436ffe2bcf87520db78e29db.js": "/saurabh-portfolio/precache-manifest.894b5edb436ffe2bcf87520db78e29db.js",
+    "service-worker.js": "/saurabh-portfolio/service-worker.js",
+    "static/css/main.9b064583.chunk.css.map": "/saurabh-portfolio/static/css/main.9b064583.chunk.css.map",
+    "static/js/2.db622a8b.chunk.js.LICENSE.txt": "/saurabh-portfolio/static/js/2.db622a8b.chunk.js.LICENSE.txt",
+    "static/media/saurabh.jpeg": "/saurabh-portfolio/static/media/saurabh.85560531.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa13a0f2.js",
+    "static/js/runtime-main.8b919f1b.js",
     "static/js/2.db622a8b.chunk.js",
     "static/css/main.9b064583.chunk.css",
-    "static/js/main.49c1a574.chunk.js"
+    "static/js/main.56259431.chunk.js"
   ]
 }
